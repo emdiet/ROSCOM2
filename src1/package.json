@@ -1,0 +1,30 @@
+{
+  "name": "roscom2",
+  "version": "1.1.0",
+  "description": "ROS2 easy bridge",
+  "main": "terminal.js",
+  "type": "module",
+  "scripts": {
+    "start": "node terminal.js",
+    "test": "node test.js",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdiet/ROSCOM2.git"
+  },
+  "keywords": [
+    "ros2",
+    "networking"
+  ],
+  "author": "emdiet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emdiet/ROSCOM2/issues"
+  },
+  "homepage": "https://github.com/emdiet/ROSCOM2#readme"
+}
