@@ -1,7 +1,9 @@
+# status: component development, currently inoperable
+
 # Welcome to ROSCOM2!
 ===================
 
-version: 1.1.0
+version: 0.1.0
 
 ## What is ROSCOM2?
 
